@@ -1,0 +1,10 @@
+langchain
+python-dotenv
+langchain_community
+langchain_groq
+streamlit
+groq
+streamlit-webrtc
+gtts
+playsound
+-e .
